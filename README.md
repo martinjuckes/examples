@@ -1,2 +1,3 @@
-# examples
-Code fragments
+# Examples
+Code fragments .. one directory per subject
+
